@@ -2,6 +2,9 @@
 
 > Collection of loading spinners. No CSS. Command Line Style
 
+![vue-simple-loading-spinner demo](/assets/images/spinners_demo.gif "Demo")
+
+
 ## Installation
 
 ``` bash
@@ -63,5 +66,3 @@ yarn add vue-simple-loading-spinner
   PULSE
   SLASHES
 ```
-
-![vue-simple-loading-spinner demo](/assets/images/spinners_demo.gif "Demo")
