@@ -1,7 +1,14 @@
 {
   "name": "vue-simple-loading-spinner",
-  "version": "0.0.3",
-  "description": "",
+  "version": "0.0.4",
+  "description": "Collection of loading spinners. No CSS. Command Line Style",
+  "keywords": [
+    "vue-spinner",
+    "spinner",
+    "animation",
+    "vue",
+    "javascript"
+  ],
   "main": "dist/vue-simple-loading-spinner.ssr.js",
   "browser": "dist/vue-simple-loading-spinner.esm.js",
   "module": "dist/vue-simple-loading-spinner.esm.js",
