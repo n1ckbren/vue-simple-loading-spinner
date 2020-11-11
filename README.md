@@ -63,3 +63,5 @@ yarn add vue-simple-loading-spinner
   PULSE
   SLASHES
 ```
+
+![vue-simple-loading-spinner demo](/assets/images/spinners_demo.gif "Demo")
